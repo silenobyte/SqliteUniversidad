@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SqliteUniversidad</string>
+    <string name="codigo">codigo</string>
+    <string name="nombre">Nombre</string>
+    <string name="programa">Programa</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="listado">Listado</string>
+    <string name="Eliminar">Eliminar</string>
+    <string name="pick_color" />
+    <string name="buscar">Buscar</string>
+    <string name="modificar">modificar</string>
+</resources>
